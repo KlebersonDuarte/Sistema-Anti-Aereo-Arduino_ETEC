@@ -2,16 +2,15 @@
 
 ## Sobre o Projeto
 
-Este repositório contém o código desenvolvido para um **sistema anti-aéreo utilizando Arduino**, criado como projeto acadêmico na ETEC.
+Protótipo desenvolvido como projeto acadêmico na **ETEC**, utilizando Arduino, sensores e componentes eletrônicos para detectar objetos em movimento e direcionar um laser para o alvo identificado.
 
-O objetivo do projeto foi aplicar conceitos de programação, eletrônica e automação para desenvolver um sistema capaz de detectar e reagir a objetos em movimento no ambiente.
-
+> **Projeto exclusivamente educacional:** este sistema é uma simulação/protótipo desenvolvido para estudar programação, eletrônica, sensores e automação. Não possui finalidade militar ou aplicação real de defesa.
 ---
 
 ## Funcionamento
 
 O sistema utiliza sensores para monitorar a área e identificar possíveis objetos.  
-A partir dessa detecção, o Arduino processa as informações e mira um lazer no objeto identificado.
+A partir dessa detecção, o Arduino processa as informações e mira o laser no objeto identificado.
 
 ---
 
@@ -53,11 +52,8 @@ Este projeto é apenas para fins educacionais e não possui aplicação real mil
 ---
 
 ## Integrantes 
--Enzo Feitosa Gaeta
-
--Kleberson Duarte Santos
-
--Leonardo de Oliveira Duarte
-
--Murilo Gomes Cordeiro
+* **Enzo Feitosa** — [GitHub](https://github.com/eegaeta)
+* **Kleberson Duarte** — [GitHub](https://github.com/KlebersonDuarte)
+* **Leonardo de Oliveira** — [GitHub](https://github.com/leo08duartee-web)
+* **Murilo Gomes** — [GitHub](https://github.com/MuriloGoms)
 
